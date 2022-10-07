@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5T86bqgSrwdnIBr5ckQyDVaRXNXHE7xxMmltCFuJNnU=",
+  "Source": "RpiServerAPI",
+  "BasePath": "_content/RpiServerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

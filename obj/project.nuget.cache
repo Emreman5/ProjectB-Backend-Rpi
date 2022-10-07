@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ce7CTAwNZapDa3ls/IUEt/pDCOwLPdjZtnGTQBhxASeaP4ZYfoMLcvpflCG1cqtxbofgBs826H2C+vCD1VKdvw==",
+  "success": true,
+  "projectFilePath": "/var/www/RpiServerAPI/RpiServerAPI/RpiServerAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/pi/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/pi/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/pi/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/pi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/pi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
