@@ -8,11 +8,11 @@ public class HelloController : Controller
     [HttpGet("hello")]
     public IActionResult Hello()
     {
-        return Ok("Batuş");
+        return Ok("Erme");
     }
     [HttpGet("GetLocation")]
     public IActionResult GetLocation()
     {
-        return Ok("X : 100, Y : 50");
+        return Ok("X : 200, Y : 100");
     }
 }
