@@ -52,3 +52,12 @@ A:\Projects\ProjectB-Backend-Rpi\obj\Debug\net6.0\RpiServerAPI.dll
 A:\Projects\ProjectB-Backend-Rpi\obj\Debug\net6.0\ref\RpiServerAPI.dll
 A:\Projects\ProjectB-Backend-Rpi\obj\Debug\net6.0\RpiServerAPI.pdb
 A:\Projects\ProjectB-Backend-Rpi\obj\Debug\net6.0\RpiServerAPI.genruntimeconfig.cache
+A:\Projects\ProjectB-Backend-Rpi\bin\Debug\net6.0\Humanizer.dll
+A:\Projects\ProjectB-Backend-Rpi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+A:\Projects\ProjectB-Backend-Rpi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Projects\ProjectB-Backend-Rpi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\Projects\ProjectB-Backend-Rpi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Projects\ProjectB-Backend-Rpi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+A:\Projects\ProjectB-Backend-Rpi\bin\Debug\net6.0\MySqlConnector.dll
+A:\Projects\ProjectB-Backend-Rpi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+A:\Projects\ProjectB-Backend-Rpi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
