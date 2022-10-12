@@ -1,6 +1,6 @@
 ﻿namespace RpiServerAPI.Utilities.Results;
 
-public interface IDataResult
+public interface IDataResult<T> : IResult
 {
-    
+    public T Data { get; }
 }
